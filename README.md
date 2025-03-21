@@ -26,8 +26,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<p align="left">
+  I'm Ayan Mansoor, a passionate Web Developer. 👨‍💻 <br><br>
+  - 🔭 I’m currently working as a full-stack web developer, creating responsive and interactive websites and web applications using technologies like HTML, CSS, JavaScript, React, and Node.js. I focus on delivering high-quality user experiences and clean, efficient code. <br><br>
+  - 📚 I’m currently learning more about cutting-edge technologies in web development, including TypeScript, advanced React concepts, and back-end frameworks like Express and Django. I am also diving into cloud technologies such as AWS to better understand deployment and scalability. <br><br>
+  - ⚡ In my free time, I enjoy exploring new tech trends, contributing to open-source projects, and participating in coding challenges to sharpen my problem-solving skills. I also like to spend time learning about UI/UX design principles and how to create even more intuitive and engaging user interfaces.
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
